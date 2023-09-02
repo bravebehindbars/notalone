@@ -1,0 +1,93 @@
+h1
+	{color: hotpink;}
+
+h2
+	{color: red;}
+
+h3
+	{color: royalblue;}
+
+
+	body
+	{background-color: purple;}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  width: 100%;
+  margin: auto;
+  background: grey;
+  position: fixed;
+    top: 0; */}
+
+}
+
+.nav-bar img {
+  margin-left: 10px;
+  width: 90px;
+  height: 90px;
+  border: 0;
+  border-radius: 25px;
+}
+
+  
+.nav-bar a {
+  text-decoration: none;
+  margin: 2px 15px;
+  color: white;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+.nav-bar a:hover {
+  color: black;
+  text-shadow: 0 0 1px lightblue;
+}
+.menu {
+  list-style: none;
+  display: flex;
+  overflow: hidden;
+}
+
+button {color: hotpink; font-family: cursive; text-align: center; border-radius: 30px;}
+
+	.nav-bar {padding-top: 25px; padding-bottom: 10px;}
+	.header {padding-top: 115px; display:flex; justify-content: center}
+	.Container {display: flex; flex-wrap:wrap;justify-content: center}
+	.Stages {width:280px; font-family: cursive; font-size: 14px; color: lightblue; border: none; margin: 5px; padding: 5px;}
+	.Resources {width: 280px; font-size: 16px; color: black; background-color: floralwhite; border:5px dashed blue; margin:5px; padding:5px; border-radius: 25px;}
+	#Mission {display: flex; justify-content: center; color: blue; font-size: 20px; background-color: palegreen; border-radius: 30px; padding-bottom: 15px;}
+
+	#noexcuse {padding-top: 30px; padding-left: 10px; padding-right: 10px;}
+	
+	.cycle-of-violence {border-radius: 20px;}
+	.apologies {border-radius: 20px;}
+	.violence {border-radius: 20px;}
+	.gaslighting {border-radius: 20px;}
+	.love-bombing {border-radius: 20px;}
+	.break-silence {border-radius: 80px;}
+	.not-alone {border-radius: 100px;}
+	.healthylove {border-radius: 100px;}
+	.believe {border-radius: 100px;}
+	.dvhotline {border-radius: 30px;}
+	.not-love {border-radius: 30px;}
+	.support-all {border-radius: 30px;}
+	.refused-to-surrender {border-radius: 30px;}
+	.silent {border-radius: 30px;}
+	.askforhelp {border-radius: 30px;}
+	.lifelong {border-radius: 30px;}
+	.twelve-million {border-radius: 30px;}
+	.hope {border-radius: 30px;}
+	.shouldnt-hurt {border-radius: 30px;}
+	.one-death {border-radius: 30px;}
+	.three-daily {border-radius: 30px;}
+	.control {border-radius: 30px;}
+	.more {border-radius: 30px;}
+	.not-alone-two {border-radius: 30px;}
+	.signs {border-radius: 30px;}
+
+	.gaslighting {width:275px; height:275px;}
+	.cycle-of-violence {width:270px; height:270px;}
+	.wheel-of-equality {width:585px; height:585px}
+	.refused-to-surrender{width:280px; height:200px;}
